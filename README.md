@@ -9,3 +9,4 @@ Day 5: Learnt about boolean values, comparison operators, and if else.
 Day 6: Learnt about for loop, while loop, logical operators and bitwise operators.  
 Day 7: Learnt about lists and sorting the list using bubble sort.  
 Day 8: Learnt about list operations and advanced operations on lists.  
+Day 9: Learnt about functions in python, passing positional and keyword arguments to function and default value parameters in function.  
