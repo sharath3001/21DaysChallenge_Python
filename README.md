@@ -12,3 +12,4 @@ Day 8: Learnt about list operations and advanced operations on lists.
 Day 9: Learnt about functions in python, passing positional and keyword arguments to function and default value parameters in function.  
 Day 10: Learnt about function returns and scopes.  
 Day 11: Learnt more in detail about functions and learnt about tuples and dictionary.  
+Day 12: Learnt about importing modules in python.  
