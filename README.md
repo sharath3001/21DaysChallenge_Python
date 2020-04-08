@@ -15,3 +15,4 @@ Day 11: Learnt more in detail about functions and learnt about tuples and dictio
 Day 12: Learnt about importing modules in python.  
 Day 13: Learnt more about in-built modules and how to create module of your own.  
 Day 14: Learnt about exceptions in python.  
+Day 15: Learnt about strings and its methods.  
