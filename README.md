@@ -18,3 +18,4 @@ Day 14: Learnt about exceptions in python.
 Day 15: Learnt about strings and its methods.  
 Day 16: Learnt about object oriented programming in python.  
 Day 17: Learnt about inheritance in python.  
+Day 18: Learnt more about exceptions.  
