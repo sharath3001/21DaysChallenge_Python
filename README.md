@@ -19,3 +19,4 @@ Day 15: Learnt about strings and its methods.
 Day 16: Learnt about object oriented programming in python.  
 Day 17: Learnt about inheritance in python.  
 Day 18: Learnt more about exceptions.  
+Day 19: Learnt about generators and iterators in python.  
