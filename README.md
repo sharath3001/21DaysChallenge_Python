@@ -20,5 +20,7 @@ Day 16: Learnt about object oriented programming in python.
 Day 17: Learnt about inheritance in python.  
 Day 18: Learnt more about exceptions.  
 Day 19: Learnt about generators and iterators in python.  
-Day 20: Learnt processing of text files in python. 
+Day 20: Learnt processing of text files in python.  
+Day 21: Learnt processing of binary files and thus completed the programming essentials in python course by cisco.  
+Finally, 21 days Python challenge ends here...   
 
